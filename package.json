@@ -16,7 +16,7 @@
   "dependencies": {
     "nodemailer": "^4.6.7",
     "strapi-utils": "^3.1.4",
-    "nodemailer-plugin-inline-base64": "^2.1.1
+    "nodemailer-plugin-inline-base64": "^2.1.1"
   },
   "strapi": {
     "isProvider": true
@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bugatino/strapi-provider-email-gmail-oath2.git"
+    "url": "git://github.com/bugatino/strapi-provider-email-gmail-oath2-image-base64.git"
   },
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
