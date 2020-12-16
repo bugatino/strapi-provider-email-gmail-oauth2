@@ -1,7 +1,7 @@
 # strapi-provider-email-gmail-oauth2-image-base64
 
 ## Demo
-
+![Demo result/](./demo-image.jpg)
 ## Note
 This package is a fork of the [strapi-provider-email-nodemailer-gmail-oauth2](https://www.npmjs.com/package/strapi-email-nodemailer-gmail-oauth2). This is to meet the [new required name for Strapi Beta](https://strapi.io/documentation/3.0.0-alpha.x/guides/email.html#usage) (Also changed the OAuth from 2LO Service to 3LO client) and add feature to support insert base64 image in html content of email.
 
