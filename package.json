@@ -27,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/bugatino/strapi-provider-email-gmail-oath2-image-base64.git"
+    "url": "git://github.com/bugatino/strapi-provider-email-gmail-oauth2-image-base64.git"
   },
   "bugs": {
     "url": "https://github.com/strapi/strapi/issues"
